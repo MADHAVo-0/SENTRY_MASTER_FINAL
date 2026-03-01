@@ -20,15 +20,19 @@ if (!fs.existsSync(dataDir)) {
 
 // Set environment variables for the server
 process.env.DB_PATH = dbPath;
+process.env.DATA_DIR = dataDir;
 process.env.PORT = 5001;
 process.env.NODE_ENV = 'production';
+process.env.JWT_SECRET = 'sentry_tracker_jwt_secret_key_2026_production_build_secure_token_generator_v1';
 
 // Import the server
 // We need to make sure the server doesn't crash the app if it fails to start
 try {
+    log.info('Starting server...');
     const { server } = require('./server/index.js');
+    log.info('Server imported successfully.');
 } catch (err) {
-    console.error('Failed to start server:', err);
+    log.error('Failed to start server:', err);
 }
 
 let mainWindow;
@@ -39,18 +43,35 @@ function createWindow() {
         height: 800,
         webPreferences: {
             nodeIntegration: false,
-            contextIsolation: true,
-            preload: path.join(__dirname, 'preload.js') // We might not need this yet, but good practice
+            contextIsolation: true
         },
         icon: path.join(__dirname, 'assets/icon.png') // We'll need an icon eventually
     });
 
-    // Load the app
-    // In production, we load the URL served by the local Express server
-    mainWindow.loadURL('http://localhost:5001');
+    // Poll server before loading
+    const http = require('http');
+    const loadWindow = () => {
+        http.get('http://localhost:5001', (res) => {
+            if (res.statusCode === 200 || res.statusCode === 404) { // 404 is fine, means server is up but maybe path error which we catch
+                log.info('Server is ready, loading window...');
+                mainWindow.loadURL('http://localhost:5001');
+                mainWindow.webContents.openDevTools();
+            } else {
+                log.info(`Server responded with ${res.statusCode}, retrying...`);
+                setTimeout(loadWindow, 500);
+            }
+        }).on('error', (e) => {
+            log.info('Server not ready yet, retrying in 500ms...');
+            setTimeout(loadWindow, 500);
+        });
+    };
 
-    // Open the DevTools.
-    // mainWindow.webContents.openDevTools();
+    loadWindow();
+
+    mainWindow.webContents.on('did-fail-load', () => {
+        log.error('Failed to load page, retrying in 1s...');
+        setTimeout(loadWindow, 1000);
+    });
 
     mainWindow.on('closed', function () {
         mainWindow = null;
@@ -61,6 +82,11 @@ function createWindow() {
         autoUpdater.checkForUpdatesAndNotify();
     });
 }
+
+// Global error handlers
+process.on('uncaughtException', (error) => {
+    log.error('Uncaught Exception:', error);
+});
 
 app.on('ready', createWindow);
 

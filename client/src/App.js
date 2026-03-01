@@ -15,6 +15,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import EventLogs from './pages/EventLogs';
 import RiskAnalytics from './pages/RiskAnalytics';
+import MLInsights from './pages/MLInsights';
 import Settings from './pages/Settings';
 import NotFound from './pages/NotFound';
 
@@ -39,7 +40,7 @@ const ProtectedRoute = ({ children }) => {
   const { isAuthenticated, loading } = useContext(AuthContext);
 
   if (loading) return <div>Loading...</div>;
-  
+
   if (!isAuthenticated) {
     return <Navigate to="/login" />;
   }
@@ -54,7 +55,7 @@ function App() {
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
-        
+
         <Route path="/" element={
           <ProtectedRoute>
             <MainLayout />
@@ -63,9 +64,10 @@ function App() {
           <Route index element={<Dashboard />} />
           <Route path="events" element={<EventLogs />} />
           <Route path="analytics" element={<RiskAnalytics />} />
+          <Route path="ml-insights" element={<MLInsights />} />
           <Route path="settings" element={<Settings />} />
         </Route>
-        
+
         <Route path="*" element={<NotFound />} />
       </Routes>
     </ThemeProvider>

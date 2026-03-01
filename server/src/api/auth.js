@@ -52,8 +52,8 @@ router.post('/register', async (req, res) => {
       }
     );
   } catch (err) {
-    console.error(err.message);
-    res.status(500).send('Server error');
+    console.error('Registration Error:', err);
+    res.status(500).json({ msg: 'Registration failed: ' + err.message });
   }
 });
 
@@ -220,7 +220,7 @@ router.get('/user', auth, async (req, res) => {
       .where({ id: req.user.id })
       .select('id', 'username', 'email', 'role', 'created_at')
       .first();
-    
+
     res.json(user);
   } catch (err) {
     console.error(err.message);

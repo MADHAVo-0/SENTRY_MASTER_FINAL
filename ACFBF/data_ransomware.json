@@ -1,0 +1,3002 @@
+[
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_94.pptx",
+    "file_name": "file_94.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:37:24.733801",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_70.pptx",
+    "file_name": "file_70.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:37:28.558515",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_68.png",
+    "file_name": "file_68.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:37:29.730484",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_48.svg",
+    "file_name": "file_48.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:37:30.110725",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_42.pptx",
+    "file_name": "file_42.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:37:30.330244",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_262.svg",
+    "file_name": "file_262.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:37:30.496419",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_178.pptx",
+    "file_name": "file_178.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:37:30.998452",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_164.xlsx",
+    "file_name": "file_164.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:37:31.898864",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_288.png",
+    "file_name": "file_288.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:37:35.114024",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_139.jpg",
+    "file_name": "file_139.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:37:38.812766",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_265.gif",
+    "file_name": "file_265.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:37:42.145390",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_13.jpg",
+    "file_name": "file_13.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:37:44.807941",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_31.txt",
+    "file_name": "file_31.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:37:46.452613",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_208.png",
+    "file_name": "file_208.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:37:47.381647",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_285.png",
+    "file_name": "file_285.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:37:54.208089",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_211.svg",
+    "file_name": "file_211.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:37:56.858753",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_160.docx",
+    "file_name": "file_160.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:37:57.931644",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_172.xlsx",
+    "file_name": "file_172.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:37:58.010337",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_167.bmp",
+    "file_name": "file_167.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:38:00.412723",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_193.csv",
+    "file_name": "file_193.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:38:05.309348",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_3.txt",
+    "file_name": "file_3.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:38:07.506177",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_102.txt",
+    "file_name": "file_102.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:38:09.340005",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_292.png",
+    "file_name": "file_292.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:38:12.272569",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_255.svg",
+    "file_name": "file_255.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:38:14.190266",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_155.gif",
+    "file_name": "file_155.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:38:14.582877",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_26.gif",
+    "file_name": "file_26.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:38:15.178441",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_134.png",
+    "file_name": "file_134.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:38:15.391360",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_156.pdf",
+    "file_name": "file_156.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:38:16.762376",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_258.csv",
+    "file_name": "file_258.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:38:20.078529",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_181.pdf",
+    "file_name": "file_181.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:38:20.338805",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_250.pdf",
+    "file_name": "file_250.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:38:20.371488",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_125.png",
+    "file_name": "file_125.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:38:20.626881",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_192.xlsx",
+    "file_name": "file_192.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:38:20.880640",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_97.svg",
+    "file_name": "file_97.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:38:22.544577",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_46.xlsx",
+    "file_name": "file_46.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:38:23.851935",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_259.jpg",
+    "file_name": "file_259.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:38:24.815276",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_271.xlsx",
+    "file_name": "file_271.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:38:26.149005",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_162.png",
+    "file_name": "file_162.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:38:28.018143",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_67.xlsx",
+    "file_name": "file_67.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:38:28.710677",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_79.pdf",
+    "file_name": "file_79.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:38:30.251914",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_92.txt",
+    "file_name": "file_92.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:38:30.445214",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_221.txt",
+    "file_name": "file_221.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:38:32.576370",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_17.png",
+    "file_name": "file_17.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:38:34.388825",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_87.pdf",
+    "file_name": "file_87.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:38:36.688958",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_257.txt",
+    "file_name": "file_257.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:38:38.022838",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_33.docx",
+    "file_name": "file_33.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:38:41.507513",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_267.xlsx",
+    "file_name": "file_267.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:38:47.551256",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_73.pdf",
+    "file_name": "file_73.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:38:48.336885",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_128.pptx",
+    "file_name": "file_128.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:38:50.525660",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_159.pptx",
+    "file_name": "file_159.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:38:50.896389",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_279.docx",
+    "file_name": "file_279.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:38:51.436050",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_163.docx",
+    "file_name": "file_163.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:38:52.544247",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_220.xlsx",
+    "file_name": "file_220.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:38:54.716012",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_144.gif",
+    "file_name": "file_144.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:38:55.074025",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_243.gif",
+    "file_name": "file_243.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:38:56.437453",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_168.jpg",
+    "file_name": "file_168.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:39:00.621517",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_188.png",
+    "file_name": "file_188.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:39:01.040460",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_186.docx",
+    "file_name": "file_186.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:39:01.146046",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_177.docx",
+    "file_name": "file_177.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:39:02.068486",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_6.png",
+    "file_name": "file_6.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:39:02.628925",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_174.svg",
+    "file_name": "file_174.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:39:03.306860",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_244.pptx",
+    "file_name": "file_244.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:39:06.658695",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_194.txt",
+    "file_name": "file_194.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:39:11.923996",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_11.docx",
+    "file_name": "file_11.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:39:12.191972",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_277.jpg",
+    "file_name": "file_277.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:39:12.354786",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_47.png",
+    "file_name": "file_47.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:39:12.815735",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_19.svg",
+    "file_name": "file_19.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:39:13.070200",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_145.xlsx",
+    "file_name": "file_145.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:39:13.231537",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_126.xlsx",
+    "file_name": "file_126.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:39:17.728197",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_58.jpg",
+    "file_name": "file_58.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:39:18.522646",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_108.png",
+    "file_name": "file_108.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:39:18.526794",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_238.docx",
+    "file_name": "file_238.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:39:21.748387",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_74.txt",
+    "file_name": "file_74.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:39:23.491015",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_216.png",
+    "file_name": "file_216.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:39:23.575429",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_76.svg",
+    "file_name": "file_76.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:39:23.807398",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_190.xlsx",
+    "file_name": "file_190.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:39:29.704629",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_237.gif",
+    "file_name": "file_237.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:39:31.534920",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_209.bmp",
+    "file_name": "file_209.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:39:32.494329",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_120.xlsx",
+    "file_name": "file_120.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:39:35.980000",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_142.csv",
+    "file_name": "file_142.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:39:39.125718",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_170.txt",
+    "file_name": "file_170.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:39:40.801157",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_187.svg",
+    "file_name": "file_187.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:39:43.354291",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_253.txt",
+    "file_name": "file_253.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:39:48.245375",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_278.svg",
+    "file_name": "file_278.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:39:51.603131",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_39.docx",
+    "file_name": "file_39.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:39:52.910855",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_83.gif",
+    "file_name": "file_83.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:39:53.060624",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_132.txt",
+    "file_name": "file_132.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:39:53.418011",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_63.txt",
+    "file_name": "file_63.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:39:54.271378",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_270.svg",
+    "file_name": "file_270.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:39:54.468133",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_212.docx",
+    "file_name": "file_212.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:39:55.655017",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_123.xlsx",
+    "file_name": "file_123.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:40:05.688345",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_175.docx",
+    "file_name": "file_175.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:40:06.363980",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_213.txt",
+    "file_name": "file_213.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:40:08.755435",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_95.jpg",
+    "file_name": "file_95.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:40:12.507856",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_84.txt",
+    "file_name": "file_84.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:40:13.095545",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_282.gif",
+    "file_name": "file_282.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:40:14.580796",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_232.svg",
+    "file_name": "file_232.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:40:15.429005",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_189.pdf",
+    "file_name": "file_189.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:40:18.917198",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_64.pdf",
+    "file_name": "file_64.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:40:20.539268",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_119.svg",
+    "file_name": "file_119.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:40:21.349447",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_293.png",
+    "file_name": "file_293.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:40:23.478533",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_28.svg",
+    "file_name": "file_28.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:40:24.772231",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_227.gif",
+    "file_name": "file_227.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:40:25.578927",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_135.xlsx",
+    "file_name": "file_135.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:40:28.843240",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_127.jpg",
+    "file_name": "file_127.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:40:30.508377",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_287.pptx",
+    "file_name": "file_287.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:40:40.537100",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_206.csv",
+    "file_name": "file_206.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:40:41.644626",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_143.docx",
+    "file_name": "file_143.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:40:44.647118",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_166.txt",
+    "file_name": "file_166.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:40:46.814438",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_80.svg",
+    "file_name": "file_80.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:40:50.884575",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_229.gif",
+    "file_name": "file_229.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:40:55.738976",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_274.png",
+    "file_name": "file_274.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:40:56.161548",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_66.csv",
+    "file_name": "file_66.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:40:57.858682",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_183.svg",
+    "file_name": "file_183.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:40:57.914620",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_98.bmp",
+    "file_name": "file_98.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:41:00.753469",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_157.xlsx",
+    "file_name": "file_157.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:41:01.851309",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_37.jpg",
+    "file_name": "file_37.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:41:07.697600",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_71.jpg",
+    "file_name": "file_71.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:41:08.997925",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_225.pptx",
+    "file_name": "file_225.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:41:10.946187",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_171.pptx",
+    "file_name": "file_171.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:41:10.948412",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_49.pdf",
+    "file_name": "file_49.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:41:11.692643",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_62.docx",
+    "file_name": "file_62.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:41:11.869104",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_34.jpg",
+    "file_name": "file_34.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:41:13.481632",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_131.pdf",
+    "file_name": "file_131.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:41:14.806573",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_75.pdf",
+    "file_name": "file_75.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:41:21.139847",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_202.pptx",
+    "file_name": "file_202.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:41:23.980496",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_197.png",
+    "file_name": "file_197.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:41:24.975773",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_53.docx",
+    "file_name": "file_53.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:41:28.321115",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_184.gif",
+    "file_name": "file_184.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:41:28.784181",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_239.pdf",
+    "file_name": "file_239.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:41:32.173089",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_199.txt",
+    "file_name": "file_199.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:41:32.328785",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_93.pdf",
+    "file_name": "file_93.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:41:35.256764",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_104.gif",
+    "file_name": "file_104.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:41:35.339780",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_106.xlsx",
+    "file_name": "file_106.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:41:35.814741",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_77.svg",
+    "file_name": "file_77.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:41:37.069438",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_286.png",
+    "file_name": "file_286.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:41:37.154592",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_2.csv",
+    "file_name": "file_2.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:41:37.874727",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_150.xlsx",
+    "file_name": "file_150.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:41:40.884140",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_12.svg",
+    "file_name": "file_12.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:41:44.705108",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_109.gif",
+    "file_name": "file_109.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:41:47.059210",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_149.docx",
+    "file_name": "file_149.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:41:52.429480",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_105.jpg",
+    "file_name": "file_105.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:41:53.501576",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_173.svg",
+    "file_name": "file_173.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:42:05.473901",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_91.svg",
+    "file_name": "file_91.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:42:11.929387",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_82.png",
+    "file_name": "file_82.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:42:12.528052",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_268.csv",
+    "file_name": "file_268.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:42:13.357167",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_272.jpg",
+    "file_name": "file_272.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:42:17.111318",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_152.jpg",
+    "file_name": "file_152.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:42:20.936130",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_154.gif",
+    "file_name": "file_154.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:42:22.673621",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_228.jpg",
+    "file_name": "file_228.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:42:23.890642",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_240.svg",
+    "file_name": "file_240.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:42:28.948732",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_56.png",
+    "file_name": "file_56.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:42:29.621661",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_138.xlsx",
+    "file_name": "file_138.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:42:31.337694",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_247.pptx",
+    "file_name": "file_247.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:42:34.778491",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_264.docx",
+    "file_name": "file_264.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:42:37.461377",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_214.xlsx",
+    "file_name": "file_214.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:42:39.279010",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_69.jpg",
+    "file_name": "file_69.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:42:41.870182",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_103.pdf",
+    "file_name": "file_103.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:42:44.546777",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_114.pdf",
+    "file_name": "file_114.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:42:44.551719",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_116.svg",
+    "file_name": "file_116.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:42:45.169198",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_204.docx",
+    "file_name": "file_204.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:42:45.481697",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_121.jpg",
+    "file_name": "file_121.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:42:46.845461",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_30.docx",
+    "file_name": "file_30.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:42:47.337936",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_136.svg",
+    "file_name": "file_136.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:42:50.528107",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_40.csv",
+    "file_name": "file_40.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:42:53.433515",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_231.gif",
+    "file_name": "file_231.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:42:56.064387",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_24.docx",
+    "file_name": "file_24.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:42:57.245305",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_22.docx",
+    "file_name": "file_22.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:42:58.048342",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_283.bmp",
+    "file_name": "file_283.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:43:00.987464",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_180.pdf",
+    "file_name": "file_180.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:43:03.290332",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_218.gif",
+    "file_name": "file_218.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:43:06.602365",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_20.csv",
+    "file_name": "file_20.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:43:07.266104",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_111.gif",
+    "file_name": "file_111.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:43:07.551031",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_45.gif",
+    "file_name": "file_45.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:43:07.707089",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_25.docx",
+    "file_name": "file_25.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:43:09.460862",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_226.csv",
+    "file_name": "file_226.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:43:10.514102",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_29.gif",
+    "file_name": "file_29.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:43:10.655126",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_236.svg",
+    "file_name": "file_236.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:43:13.152393",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_101.pptx",
+    "file_name": "file_101.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:43:16.349118",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_18.txt",
+    "file_name": "file_18.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:43:16.522539",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_185.png",
+    "file_name": "file_185.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:43:16.717550",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_133.docx",
+    "file_name": "file_133.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:43:24.194552",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_32.bmp",
+    "file_name": "file_32.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:43:25.698876",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_276.jpg",
+    "file_name": "file_276.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:43:26.741501",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_117.csv",
+    "file_name": "file_117.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:43:27.507965",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_110.xlsx",
+    "file_name": "file_110.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:43:28.743272",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_245.pdf",
+    "file_name": "file_245.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:43:34.172994",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_251.bmp",
+    "file_name": "file_251.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:43:35.272030",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_233.docx",
+    "file_name": "file_233.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:43:36.638138",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_273.jpg",
+    "file_name": "file_273.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:43:38.158821",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_36.svg",
+    "file_name": "file_36.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:43:42.153165",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_16.csv",
+    "file_name": "file_16.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:43:43.812353",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_90.pptx",
+    "file_name": "file_90.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:43:44.398229",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_122.png",
+    "file_name": "file_122.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:43:44.995569",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_290.png",
+    "file_name": "file_290.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:43:51.277644",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_234.docx",
+    "file_name": "file_234.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:43:54.186996",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_99.bmp",
+    "file_name": "file_99.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:43:54.561250",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_8.bmp",
+    "file_name": "file_8.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:43:55.155041",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_140.svg",
+    "file_name": "file_140.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:43:57.631002",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_147.docx",
+    "file_name": "file_147.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:44:01.451273",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_203.png",
+    "file_name": "file_203.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:44:05.902581",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_60.xlsx",
+    "file_name": "file_60.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:44:09.125545",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_81.jpg",
+    "file_name": "file_81.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:44:11.398435",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_57.jpg",
+    "file_name": "file_57.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:44:15.485362",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_14.svg",
+    "file_name": "file_14.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:44:17.202708",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_280.pptx",
+    "file_name": "file_280.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:44:17.387692",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_217.jpg",
+    "file_name": "file_217.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:44:17.710540",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_207.docx",
+    "file_name": "file_207.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:44:25.786747",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_112.txt",
+    "file_name": "file_112.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:44:29.064657",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_113.xlsx",
+    "file_name": "file_113.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:44:29.365067",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_169.bmp",
+    "file_name": "file_169.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:44:31.256304",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_219.csv",
+    "file_name": "file_219.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:44:38.046454",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_291.csv",
+    "file_name": "file_291.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:44:38.364446",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_297.gif",
+    "file_name": "file_297.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:44:38.876992",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_296.xlsx",
+    "file_name": "file_296.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:44:38.964260",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_124.csv",
+    "file_name": "file_124.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:44:42.299387",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_54.xlsx",
+    "file_name": "file_54.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:44:42.384062",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_86.pptx",
+    "file_name": "file_86.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:44:42.686272",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_205.jpg",
+    "file_name": "file_205.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:44:43.479118",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_161.csv",
+    "file_name": "file_161.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:44:44.261156",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_252.png",
+    "file_name": "file_252.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:44:49.816018",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_55.pdf",
+    "file_name": "file_55.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:44:50.457918",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_165.png",
+    "file_name": "file_165.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:44:50.547007",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_269.jpg",
+    "file_name": "file_269.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:44:51.528918",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_130.bmp",
+    "file_name": "file_130.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:44:54.678765",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_78.gif",
+    "file_name": "file_78.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:44:55.066188",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_235.svg",
+    "file_name": "file_235.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:44:55.448299",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_5.txt",
+    "file_name": "file_5.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:44:55.772132",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_284.csv",
+    "file_name": "file_284.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:44:58.132966",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_195.svg",
+    "file_name": "file_195.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:45:02.300066",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_50.png",
+    "file_name": "file_50.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:45:10.929141",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_148.csv",
+    "file_name": "file_148.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:45:11.082668",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_176.pdf",
+    "file_name": "file_176.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:45:11.690600",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_43.xlsx",
+    "file_name": "file_43.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:45:14.052415",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_9.jpg",
+    "file_name": "file_9.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:45:15.711795",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_281.gif",
+    "file_name": "file_281.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:45:21.555897",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_248.svg",
+    "file_name": "file_248.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:45:25.115429",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_153.jpg",
+    "file_name": "file_153.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:45:25.696801",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_191.txt",
+    "file_name": "file_191.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:45:27.248111",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_72.png",
+    "file_name": "file_72.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:45:31.338556",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_146.docx",
+    "file_name": "file_146.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:45:34.949771",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_85.png",
+    "file_name": "file_85.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:45:36.777894",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_44.docx",
+    "file_name": "file_44.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:45:37.218193",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_137.gif",
+    "file_name": "file_137.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:45:39.367185",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_295.docx",
+    "file_name": "file_295.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:45:39.686162",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_241.svg",
+    "file_name": "file_241.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:45:47.502749",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_61.pdf",
+    "file_name": "file_61.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:45:48.057605",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_254.txt",
+    "file_name": "file_254.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:45:48.686320",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_289.pdf",
+    "file_name": "file_289.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:45:49.397962",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_10.docx",
+    "file_name": "file_10.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:45:49.408299",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_198.csv",
+    "file_name": "file_198.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:45:51.313630",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_201.jpg",
+    "file_name": "file_201.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:45:56.248115",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_4.docx",
+    "file_name": "file_4.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:45:58.163576",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_89.jpg",
+    "file_name": "file_89.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:46:03.022310",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_266.pptx",
+    "file_name": "file_266.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:46:04.536799",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_298.pdf",
+    "file_name": "file_298.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:46:05.221167",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_118.xlsx",
+    "file_name": "file_118.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:46:14.804077",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_141.png",
+    "file_name": "file_141.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:46:14.946592",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_100.svg",
+    "file_name": "file_100.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:46:16.728524",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_261.xlsx",
+    "file_name": "file_261.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:46:18.240356",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_215.csv",
+    "file_name": "file_215.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:46:21.386197",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_7.pptx",
+    "file_name": "file_7.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:46:22.743096",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_242.pdf",
+    "file_name": "file_242.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:46:24.524596",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_21.jpg",
+    "file_name": "file_21.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:46:29.740558",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_41.xlsx",
+    "file_name": "file_41.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:46:29.959478",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_158.xlsx",
+    "file_name": "file_158.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:46:31.229401",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_249.csv",
+    "file_name": "file_249.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:46:34.411461",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_65.png",
+    "file_name": "file_65.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:46:38.246064",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_0.png",
+    "file_name": "file_0.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:46:38.306957",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_230.jpg",
+    "file_name": "file_230.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:46:40.221559",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/file_115.pdf",
+    "file_name": "file_115.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:46:40.761018",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_88.pdf",
+    "file_name": "file_88.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:46:41.871243",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_179.txt",
+    "file_name": "file_179.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:46:41.933389",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_210.jpg",
+    "file_name": "file_210.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:46:46.288044",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_294.pdf",
+    "file_name": "file_294.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:46:47.034497",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Pictures/file_246.xlsx",
+    "file_name": "file_246.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:46:48.047273",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_222.svg",
+    "file_name": "file_222.svg",
+    "file_extension": "svg",
+    "created_at": "2026-02-03T09:46:50.406491",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_35.xlsx",
+    "file_name": "file_35.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:46:51.256534",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_299.txt",
+    "file_name": "file_299.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:46:52.699160",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/file_96.csv",
+    "file_name": "file_96.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:46:53.409155",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_52.txt",
+    "file_name": "file_52.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T09:46:55.982037",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Pictures/file_275.bmp",
+    "file_name": "file_275.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:46:59.270708",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_182.csv",
+    "file_name": "file_182.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T09:46:59.655658",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_260.pptx",
+    "file_name": "file_260.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:46:59.942548",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_23.xlsx",
+    "file_name": "file_23.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T09:47:03.820870",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_27.jpg",
+    "file_name": "file_27.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:47:04.177943",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_107.pdf",
+    "file_name": "file_107.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:47:04.904409",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_223.pdf",
+    "file_name": "file_223.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:47:06.086751",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Downloads/file_129.gif",
+    "file_name": "file_129.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:47:06.643523",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_196.pdf",
+    "file_name": "file_196.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:47:07.420631",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/file_263.png",
+    "file_name": "file_263.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:47:09.961768",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Documents/file_200.pptx",
+    "file_name": "file_200.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T09:47:10.871226",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Downloads/file_224.gif",
+    "file_name": "file_224.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:47:11.831437",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_1.pdf",
+    "file_name": "file_1.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T09:47:15.045969",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_256.docx",
+    "file_name": "file_256.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T09:47:15.290948",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Desktop/file_51.gif",
+    "file_name": "file_51.gif",
+    "file_extension": "gif",
+    "created_at": "2026-02-03T09:47:16.160009",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_15.png",
+    "file_name": "file_15.png",
+    "file_extension": "png",
+    "created_at": "2026-02-03T09:47:19.110620",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  },
+  {
+    "event_type": "create",
+    "file_path": "C:/Users/user/Documents/file_38.jpg",
+    "file_name": "file_38.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:47:19.881639",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "malware.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Pictures/file_59.bmp",
+    "file_name": "file_59.bmp",
+    "file_extension": "bmp",
+    "created_at": "2026-02-03T09:47:20.945412",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "suspicious.exe"
+  },
+  {
+    "event_type": "modify",
+    "file_path": "C:/Users/user/Desktop/file_151.jpg",
+    "file_name": "file_151.jpg",
+    "file_extension": "jpg",
+    "created_at": "2026-02-03T09:47:21.275254",
+    "is_external_drive": 0,
+    "user_id": "ransomware_process",
+    "process_name": "unknown.exe"
+  }
+]

@@ -23,6 +23,7 @@ import {
   Dashboard as DashboardIcon,
   Assessment as AssessmentIcon,
   List as ListIcon,
+  SmartToy as SmartToyIcon,
   Settings as SettingsIcon,
   ChevronLeft as ChevronLeftIcon,
   AccountCircle
@@ -107,6 +108,7 @@ const MainLayout = () => {
     { text: 'Dashboard', icon: <DashboardIcon />, path: '/' },
     { text: 'Event Logs', icon: <ListIcon />, path: '/events' },
     { text: 'Risk Analytics', icon: <AssessmentIcon />, path: '/analytics' },
+    { text: 'ML Insights', icon: <SmartToyIcon />, path: '/ml-insights' },
     { text: 'Settings', icon: <SettingsIcon />, path: '/settings' }
   ];
 

@@ -35,12 +35,23 @@ app.use('/api/events', require('./src/api/events'));
 app.use('/api/analytics', require('./src/api/analytics'));
 app.use('/api/settings', require('./src/api/settings'));
 app.use('/api/files', require('./src/api/files'));
+app.use('/api/acfbf', require('./src/api/acfbf'));
 
 // Serve static assets in production
+// Serve static assets in production
 if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, '../client/build')));
+  const fs = require('fs');
+  const buildPath = path.join(__dirname, '../client/build');
+  const indexPath = path.join(buildPath, 'index.html');
+
+  app.use(express.static(buildPath));
+
   app.get('*', (req, res) => {
-    res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
+    if (fs.existsSync(indexPath)) {
+      res.sendFile(indexPath);
+    } else {
+      res.status(404).send(`DEBUG: Creating build path failed. <br>Looking for: ${indexPath}<br>Current Dir: ${__dirname}`);
+    }
   });
 }
 

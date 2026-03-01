@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 
 // Ensure data directory exists
-const dataDir = path.join(__dirname, '../../../data');
+const dataDir = process.env.DATA_DIR || path.join(__dirname, '../../../data');
 if (!fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });
 }
@@ -50,8 +50,29 @@ const setupDatabase = async () => {
           table.string('source_ip');
           table.boolean('is_external_drive').defaultTo(false);
           table.integer('risk_score').defaultTo(0);
+          // ML/ACFBF specific columns
+          table.float('ml_risk_score');
+          table.integer('ml_context');
+          table.float('mahalanobis_distance');
+          table.string('risk_level'); // low, medium, high, critical
           table.timestamp('created_at').defaultTo(db.fn.now());
         });
+      }
+    });
+
+    // Add ML columns to existing file_events table if they don't exist
+    await db.schema.hasTable('file_events').then(async exists => {
+      if (exists) {
+        const hasColumn = await db.schema.hasColumn('file_events', 'ml_risk_score');
+        if (!hasColumn) {
+          await db.schema.table('file_events', table => {
+            table.float('ml_risk_score');
+            table.integer('ml_context');
+            table.float('mahalanobis_distance');
+            table.string('risk_level');
+          });
+          console.log('Added ML columns to file_events table');
+        }
       }
     });
 
@@ -98,7 +119,7 @@ const setupDatabase = async () => {
         });
       }
     });
-    
+
     // Create otp_requests table for OTP-based authentication
     await db.schema.hasTable('otp_requests').then(exists => {
       if (!exists) {
@@ -113,7 +134,7 @@ const setupDatabase = async () => {
         });
       }
     });
-    
+
     // Create file_tracks table
     await db.schema.hasTable('file_tracks').then(exists => {
       if (!exists) {

@@ -1,0 +1,2002 @@
+[
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_50.txt",
+    "file_name": "database_50.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:00:03.931181",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_167.docx",
+    "file_name": "backup_167.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:00:11.968796",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_96.config",
+    "file_name": "backup_96.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:00:15.773225",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/backup_180.db",
+    "file_name": "backup_180.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:00:30.346791",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_107.docx",
+    "file_name": "backup_107.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:00:58.118721",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/confidential_32.txt",
+    "file_name": "confidential_32.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:01:15.637988",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/confidential_60.pdf",
+    "file_name": "confidential_60.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:01:39.032138",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_68.xlsx",
+    "file_name": "passwords_68.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:01:43.584007",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_48.sql",
+    "file_name": "database_48.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:01:58.061369",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/confidential_147.txt",
+    "file_name": "confidential_147.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:02:06.385100",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_21.config",
+    "file_name": "confidential_21.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:02:32.778544",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/backup_172.sql",
+    "file_name": "backup_172.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:02:34.684959",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/passwords_35.env",
+    "file_name": "passwords_35.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:02:41.899431",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/confidential_189.key",
+    "file_name": "confidential_189.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:02:43.207402",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/database_23.txt",
+    "file_name": "database_23.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:02:44.257397",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/backup_174.db",
+    "file_name": "backup_174.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:02:54.727576",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/passwords_195.docx",
+    "file_name": "passwords_195.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:03:12.266905",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_10.config",
+    "file_name": "passwords_10.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:03:32.348228",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/passwords_184.xlsx",
+    "file_name": "passwords_184.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:03:50.562682",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_155.env",
+    "file_name": "database_155.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:04:06.393673",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_11.db",
+    "file_name": "database_11.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:04:16.263894",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/confidential_75.txt",
+    "file_name": "confidential_75.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:04:16.735796",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/confidential_7.csv",
+    "file_name": "confidential_7.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:04:20.235370",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/passwords_67.config",
+    "file_name": "passwords_67.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:04:25.748557",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_199.csv",
+    "file_name": "confidential_199.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:04:35.276264",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_187.pptx",
+    "file_name": "database_187.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:04:48.835744",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_186.csv",
+    "file_name": "confidential_186.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:05:07.191667",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/passwords_47.csv",
+    "file_name": "passwords_47.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:05:07.271017",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_148.key",
+    "file_name": "backup_148.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:05:13.028728",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_77.pem",
+    "file_name": "passwords_77.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:05:21.786819",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_25.xlsx",
+    "file_name": "backup_25.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:05:27.036356",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_74.xlsx",
+    "file_name": "confidential_74.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:05:32.052366",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_170.env",
+    "file_name": "backup_170.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:05:34.560719",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/database_95.env",
+    "file_name": "database_95.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:05:43.568630",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_44.csv",
+    "file_name": "backup_44.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:05:45.133261",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_81.config",
+    "file_name": "passwords_81.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:05:45.438570",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/backup_49.csv",
+    "file_name": "backup_49.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:05:45.745030",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_46.pptx",
+    "file_name": "backup_46.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:05:53.368473",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_55.sql",
+    "file_name": "backup_55.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:05:54.790516",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/passwords_76.key",
+    "file_name": "passwords_76.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:05:58.833410",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/database_105.xlsx",
+    "file_name": "database_105.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:06:07.980557",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/passwords_145.txt",
+    "file_name": "passwords_145.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:06:10.883627",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/backup_84.docx",
+    "file_name": "backup_84.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:06:17.039876",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_100.xlsx",
+    "file_name": "passwords_100.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:06:17.664800",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/confidential_12.pptx",
+    "file_name": "confidential_12.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:06:28.458864",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_72.key",
+    "file_name": "passwords_72.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:06:35.342831",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_135.pem",
+    "file_name": "confidential_135.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:06:36.585393",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/backup_98.docx",
+    "file_name": "backup_98.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:06:50.053531",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_181.csv",
+    "file_name": "backup_181.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:07:00.817817",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_141.key",
+    "file_name": "database_141.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:07:05.925630",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_73.xlsx",
+    "file_name": "backup_73.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:07:10.646516",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/backup_79.csv",
+    "file_name": "backup_79.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:07:12.682123",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/backup_83.pem",
+    "file_name": "backup_83.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:07:25.321211",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_162.txt",
+    "file_name": "confidential_162.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:07:25.758888",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_116.csv",
+    "file_name": "passwords_116.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:07:28.854916",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/passwords_137.config",
+    "file_name": "passwords_137.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:07:33.904520",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_118.pem",
+    "file_name": "passwords_118.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:08:13.209543",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/database_108.txt",
+    "file_name": "database_108.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:08:31.283961",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/confidential_183.env",
+    "file_name": "confidential_183.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:08:49.365596",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_61.sql",
+    "file_name": "confidential_61.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:08:51.262430",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/passwords_101.pptx",
+    "file_name": "passwords_101.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:09:10.441728",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_157.pdf",
+    "file_name": "confidential_157.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:09:14.471730",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/database_149.docx",
+    "file_name": "database_149.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:09:21.045590",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_66.txt",
+    "file_name": "passwords_66.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:09:21.412589",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_134.txt",
+    "file_name": "backup_134.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:09:42.474334",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_123.pptx",
+    "file_name": "passwords_123.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:09:49.210897",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/confidential_138.csv",
+    "file_name": "confidential_138.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:09:58.096029",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/database_94.pem",
+    "file_name": "database_94.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:10:01.176359",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/passwords_139.pptx",
+    "file_name": "passwords_139.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:10:03.601637",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_22.db",
+    "file_name": "database_22.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:10:12.334043",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_1.csv",
+    "file_name": "backup_1.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:10:31.019087",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_78.pdf",
+    "file_name": "backup_78.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:11:22.473208",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_154.pem",
+    "file_name": "database_154.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:11:25.222671",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/database_158.key",
+    "file_name": "database_158.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:11:33.099065",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/database_16.xlsx",
+    "file_name": "database_16.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:11:37.435463",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_128.db",
+    "file_name": "backup_128.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:11:43.525344",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/passwords_151.docx",
+    "file_name": "passwords_151.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:11:57.252296",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_13.pptx",
+    "file_name": "backup_13.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:12:32.047522",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/database_102.pdf",
+    "file_name": "database_102.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:12:34.877412",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/passwords_130.xlsx",
+    "file_name": "passwords_130.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:12:39.441159",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_4.key",
+    "file_name": "backup_4.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:12:45.208362",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/confidential_56.txt",
+    "file_name": "confidential_56.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:12:57.920342",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/database_51.xlsx",
+    "file_name": "database_51.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:12:58.998953",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_171.pdf",
+    "file_name": "database_171.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:13:13.727054",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_92.sql",
+    "file_name": "confidential_92.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:13:15.451534",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/database_43.db",
+    "file_name": "database_43.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:13:20.652026",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_179.docx",
+    "file_name": "database_179.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:13:33.864784",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/passwords_88.key",
+    "file_name": "passwords_88.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:13:34.156370",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/confidential_62.pdf",
+    "file_name": "confidential_62.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:13:36.552488",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_63.key",
+    "file_name": "confidential_63.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:13:37.750418",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_3.pdf",
+    "file_name": "confidential_3.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:13:38.169508",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_38.db",
+    "file_name": "confidential_38.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:13:48.051059",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_121.csv",
+    "file_name": "database_121.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:13:52.313720",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/database_114.sql",
+    "file_name": "database_114.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:13:53.264061",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_28.docx",
+    "file_name": "database_28.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:13:57.094604",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_91.docx",
+    "file_name": "passwords_91.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:14:02.004024",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/database_175.pdf",
+    "file_name": "database_175.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:14:12.229454",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/confidential_57.pdf",
+    "file_name": "confidential_57.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:14:12.849989",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_14.txt",
+    "file_name": "backup_14.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:14:15.821831",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_110.key",
+    "file_name": "backup_110.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:14:21.264300",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/passwords_65.env",
+    "file_name": "passwords_65.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:14:26.930990",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_156.pptx",
+    "file_name": "backup_156.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:14:45.028936",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_27.pptx",
+    "file_name": "database_27.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:14:47.775238",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_142.pdf",
+    "file_name": "backup_142.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:14:58.119911",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/confidential_196.pptx",
+    "file_name": "confidential_196.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:15:00.111041",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/confidential_112.pem",
+    "file_name": "confidential_112.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:15:04.867282",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_140.pdf",
+    "file_name": "database_140.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:15:06.568324",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_120.pptx",
+    "file_name": "confidential_120.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:15:08.322960",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_159.csv",
+    "file_name": "backup_159.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:15:17.707298",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_132.xlsx",
+    "file_name": "passwords_132.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:15:22.912425",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_52.csv",
+    "file_name": "backup_52.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:15:31.474689",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_109.pdf",
+    "file_name": "backup_109.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:15:33.769268",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/backup_90.db",
+    "file_name": "backup_90.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:15:34.289541",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/database_2.config",
+    "file_name": "database_2.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:15:35.812209",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_168.csv",
+    "file_name": "passwords_168.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:15:45.343824",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_53.pdf",
+    "file_name": "confidential_53.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:15:58.750752",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_31.key",
+    "file_name": "backup_31.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:16:13.203802",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_29.sql",
+    "file_name": "database_29.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:16:37.747718",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/confidential_18.xlsx",
+    "file_name": "confidential_18.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:16:50.292083",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_104.txt",
+    "file_name": "backup_104.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:17:03.155837",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_30.txt",
+    "file_name": "database_30.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:17:03.254391",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_106.pem",
+    "file_name": "passwords_106.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:17:05.539265",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_150.docx",
+    "file_name": "database_150.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:17:17.971539",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_87.pptx",
+    "file_name": "passwords_87.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:17:26.548277",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_34.db",
+    "file_name": "database_34.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:17:33.698744",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_165.csv",
+    "file_name": "database_165.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:17:35.355832",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_103.db",
+    "file_name": "database_103.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:17:36.931398",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/backup_5.pdf",
+    "file_name": "backup_5.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:17:39.243268",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/backup_64.txt",
+    "file_name": "backup_64.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:17:47.607941",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/backup_197.csv",
+    "file_name": "backup_197.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:17:58.396799",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_9.sql",
+    "file_name": "passwords_9.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:18:03.292629",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/database_178.xlsx",
+    "file_name": "database_178.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:18:03.848762",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_125.sql",
+    "file_name": "confidential_125.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:18:12.991647",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_146.config",
+    "file_name": "backup_146.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:18:14.926000",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_39.db",
+    "file_name": "backup_39.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:18:16.228395",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/database_36.xlsx",
+    "file_name": "database_36.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:18:19.213801",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_71.env",
+    "file_name": "backup_71.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:18:29.397891",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_198.pem",
+    "file_name": "database_198.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:18:56.350974",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/backup_190.csv",
+    "file_name": "backup_190.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:19:19.588017",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/passwords_163.pptx",
+    "file_name": "passwords_163.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:19:20.327547",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/database_17.csv",
+    "file_name": "database_17.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:19:23.061997",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/passwords_144.db",
+    "file_name": "passwords_144.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:19:26.895809",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_188.csv",
+    "file_name": "backup_188.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:19:59.091070",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_126.pem",
+    "file_name": "passwords_126.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:20:08.918125",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_41.pdf",
+    "file_name": "passwords_41.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:20:10.454888",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/confidential_173.db",
+    "file_name": "confidential_173.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:20:11.460510",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Downloads/confidential_8.db",
+    "file_name": "confidential_8.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:20:50.459513",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/database_70.txt",
+    "file_name": "database_70.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:20:51.019082",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/database_161.pem",
+    "file_name": "database_161.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:20:55.860804",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_117.csv",
+    "file_name": "passwords_117.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:20:57.751908",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_115.xlsx",
+    "file_name": "backup_115.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:21:00.982016",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_169.env",
+    "file_name": "passwords_169.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:21:07.697198",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_86.docx",
+    "file_name": "database_86.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:21:22.888616",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/confidential_124.docx",
+    "file_name": "confidential_124.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:21:24.859015",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/confidential_127.txt",
+    "file_name": "confidential_127.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:21:26.354334",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_99.sql",
+    "file_name": "backup_99.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:21:40.930876",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_143.pem",
+    "file_name": "backup_143.pem",
+    "file_extension": "pem",
+    "created_at": "2026-02-03T22:22:11.072389",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/database_192.csv",
+    "file_name": "database_192.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:22:13.458438",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_122.pptx",
+    "file_name": "passwords_122.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:22:23.135631",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_85.xlsx",
+    "file_name": "database_85.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:22:32.766712",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_153.txt",
+    "file_name": "database_153.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:22:46.357224",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_15.env",
+    "file_name": "backup_15.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:22:51.434050",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/backup_40.txt",
+    "file_name": "backup_40.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:22:52.849679",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_129.xlsx",
+    "file_name": "confidential_129.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:23:01.217873",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_24.pdf",
+    "file_name": "database_24.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:23:03.360688",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/confidential_58.sql",
+    "file_name": "confidential_58.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:23:16.761293",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_93.pdf",
+    "file_name": "passwords_93.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:23:34.984177",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/confidential_177.csv",
+    "file_name": "confidential_177.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:24:11.698613",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/database_191.sql",
+    "file_name": "database_191.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:24:15.617711",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/database_166.key",
+    "file_name": "database_166.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:24:26.022683",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/database_176.csv",
+    "file_name": "database_176.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:24:30.737190",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Desktop/passwords_111.env",
+    "file_name": "passwords_111.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:24:32.625230",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/confidential_152.pdf",
+    "file_name": "confidential_152.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:24:35.699098",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_97.pdf",
+    "file_name": "backup_97.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:24:39.762613",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/backup_113.key",
+    "file_name": "backup_113.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:24:44.660968",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_42.pdf",
+    "file_name": "passwords_42.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:25:10.874671",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_164.pdf",
+    "file_name": "backup_164.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:26:17.223344",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_80.env",
+    "file_name": "passwords_80.env",
+    "file_extension": "env",
+    "created_at": "2026-02-03T22:26:21.510350",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/passwords_136.pptx",
+    "file_name": "passwords_136.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:26:34.240335",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_26.sql",
+    "file_name": "passwords_26.sql",
+    "file_extension": "sql",
+    "created_at": "2026-02-03T22:26:47.832082",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_185.pptx",
+    "file_name": "passwords_185.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:26:53.947681",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/confidential_119.xlsx",
+    "file_name": "confidential_119.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:27:16.137892",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_59.csv",
+    "file_name": "backup_59.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:27:30.498124",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/database_82.txt",
+    "file_name": "database_82.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:27:38.236713",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/confidential_160.docx",
+    "file_name": "confidential_160.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:27:48.146005",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/passwords_33.pptx",
+    "file_name": "passwords_33.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:28:00.724513",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/database_133.pdf",
+    "file_name": "database_133.pdf",
+    "file_extension": "pdf",
+    "created_at": "2026-02-03T22:28:02.201506",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/backup_89.xlsx",
+    "file_name": "backup_89.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:28:04.310277",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/backup_182.pptx",
+    "file_name": "backup_182.pptx",
+    "file_extension": "pptx",
+    "created_at": "2026-02-03T22:28:10.764799",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Documents/backup_193.db",
+    "file_name": "backup_193.db",
+    "file_extension": "db",
+    "created_at": "2026-02-03T22:28:37.735758",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_19.docx",
+    "file_name": "passwords_19.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:28:43.539296",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/backup_131.txt",
+    "file_name": "backup_131.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:28:46.153703",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/backup_20.key",
+    "file_name": "backup_20.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:28:52.690423",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/confidential_45.docx",
+    "file_name": "confidential_45.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:29:01.545955",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/backup_69.key",
+    "file_name": "backup_69.key",
+    "file_extension": "key",
+    "created_at": "2026-02-03T22:29:18.131634",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Downloads/passwords_37.xlsx",
+    "file_name": "passwords_37.xlsx",
+    "file_extension": "xlsx",
+    "created_at": "2026-02-03T22:29:23.764870",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "C:/Users/user/Documents/passwords_194.config",
+    "file_name": "passwords_194.config",
+    "file_extension": "config",
+    "created_at": "2026-02-03T22:29:24.141341",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "C:/Users/user/Desktop/passwords_0.txt",
+    "file_name": "passwords_0.txt",
+    "file_extension": "txt",
+    "created_at": "2026-02-03T22:29:29.723257",
+    "is_external_drive": 0,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "access",
+    "file_path": "E:/ExternalDrive/passwords_54.csv",
+    "file_name": "passwords_54.csv",
+    "file_extension": "csv",
+    "created_at": "2026-02-03T22:29:42.888605",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  },
+  {
+    "event_type": "delete",
+    "file_path": "E:/ExternalDrive/passwords_6.docx",
+    "file_name": "passwords_6.docx",
+    "file_extension": "docx",
+    "created_at": "2026-02-03T22:29:54.133440",
+    "is_external_drive": 1,
+    "user_id": "suspicious_user",
+    "process_name": "powershell.exe"
+  }
+]

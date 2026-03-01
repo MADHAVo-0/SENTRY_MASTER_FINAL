@@ -1,6 +1,6 @@
 {
   "name": "sentry-doc",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "description": "A secure file monitoring and analytics system",
   "main": "electron-main.js",
   "scripts": {
@@ -13,7 +13,9 @@
     "dist": "electron-builder",
     "publish": "electron-builder --publish always",
     "test": "jest",
-    "install-all": "npm install && cd client && npm install"
+    "install-all": "npm install && cd client && npm install",
+    "postinstall": "electron-builder install-app-deps",
+    "train-model": "python ACFBF/model_manager.py train --data ACFBF/training_data.json --contexts 5"
   },
   "keywords": [
     "security",
@@ -80,6 +82,7 @@
     "concurrently": "^8.0.1",
     "electron": "^39.2.7",
     "electron-builder": "^26.4.0",
+    "electron-rebuild": "^3.2.9",
     "jest": "^29.5.0",
     "nodemon": "^2.0.22",
     "supertest": "^6.3.3",
