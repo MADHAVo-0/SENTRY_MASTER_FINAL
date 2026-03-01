@@ -1,6 +1,6 @@
 {
   "name": "sentry-doc",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A secure file monitoring and analytics system",
   "main": "electron-main.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MADHAVo-0/sentry-tracker.git"
+    "url": "https://github.com/MADHAVo-0/SENTRY_MASTER_FINAL.git"
   },
   "build": {
     "appId": "com.madhavo0.sentrytracker",
@@ -46,7 +46,7 @@
       {
         "provider": "github",
         "owner": "MADHAVo-0",
-        "repo": "sentry-tracker"
+        "repo": "SENTRY_MASTER_FINAL"
       }
     ],
     "files": [
