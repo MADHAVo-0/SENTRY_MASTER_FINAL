@@ -1,5 +1,6 @@
-const chokidar = require('chokidar');
+const fs = require('fs');
 const path = require('path');
+const chokidar = require('chokidar');
 const os = require('os');
 const { db } = require('../db/setup');
 const { calculateRiskScore } = require('./riskAnalyzer');
