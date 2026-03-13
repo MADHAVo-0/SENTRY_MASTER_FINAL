@@ -230,7 +230,11 @@ const Dashboard = () => {
                 >
                   <ListItemText
                     primary={`${event.event_type}: ${event.file_name}`}
-                    secondary={`${event.file_path} - ${new Date(event.created_at + (event.created_at.endsWith('Z') ? '' : 'Z')).toLocaleString()}`}
+                    secondary={`${event.file_path || 'Unknown path'} - ${
+                      event.created_at
+                        ? new Date(event.created_at + (event.created_at?.endsWith('Z') ? '' : 'Z')).toLocaleString()
+                        : 'Unknown time'
+                    }`}
                   />
                 </ListItem>
               ))}
