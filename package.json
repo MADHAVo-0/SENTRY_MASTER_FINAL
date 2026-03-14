@@ -30,7 +30,7 @@
     "url": "https://github.com/MADHAVo-0/sentry-tracker.git"
   },
   "build": {
-    "appId": "com.madhavo0.sentrytracker",
+    "appId": "com.sentrydoc.securitymonitor",
     "productName": "Sentry Tracker",
     "win": {
       "target": [
