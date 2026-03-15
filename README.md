@@ -52,7 +52,7 @@ SENTRY-DOC follows a clean architecture pattern with these main components:
 
 4. Create a `.env` file in the root directory with the following content:
    ```
-   PORT=5000
+   PORT=5001
    NODE_ENV=development
    JWT_SECRET=your_jwt_secret_key_here
    DB_PATH=./data/sentry.db
@@ -71,7 +71,7 @@ SENTRY-DOC follows a clean architecture pattern with these main components:
 
 2. Access the application:
    - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000
+   - Backend API: http://localhost:5001
 
 ## Usage
 
